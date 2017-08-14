@@ -87,8 +87,7 @@
     "web": "https://github.com/cnpm/cnpmjs.org"
   },
   "bugs": {
-    "url": "https://github.com/cnpm/cnpmjs.org/issues",
-    "email": "fengmk2@gmail.com"
+    "url": "https://github.com/cnpm/cnpmjs.org/issues"
   },
   "keywords": [
     "cnpmjs.org",
